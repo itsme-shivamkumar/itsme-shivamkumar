@@ -7,11 +7,11 @@
 ### 👋 ✨ Hi, I'm Shivam Kumar.
 
 
-I'm a third year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Information Technology. I'm a **Coder**, **Web Developer** and **Machine Learning Practioner**. I am also planning on writing blogs on various technical topics.
+I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Information Technology. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
 
 - 🔭 I develop front-end web-applications using React and Django.
-- 🌱 I develop, implement and deploy machine learning models on websites/web-applications using flask.
-- 👯 If you want a web application or a mobile app for your business idea or startup, then I can help you.
+- 🌱 I solve problem-solving coding questions on leetcode, hackerrank, codechef and other platforms.
+- 👯 If you want a web application for your business idea or startup, then I can help you.
 - 💬 Open for discussion on my related Tech Stack(motive is exchange of knowledge). 
 - 📫 How to reach me: shivkumar386112@gmail.com
 - 😄 Pronouns: He/Him.
@@ -23,9 +23,6 @@ I'm a third year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Informa
 <br>
 
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
-     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
