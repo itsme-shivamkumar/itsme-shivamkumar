@@ -50,10 +50,10 @@ I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Info
 ## 💬 Let's Connect
     
 <a href="https://www.linkedin.com/in/shivam-kumar-9575a7227/">
-    <img align="left" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />
+    <img align="left" alt="Shivam Kumar | Linkedin" width="24px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" />
   </a>
   
   
   <a href="https://www.instagram.com/sherlock_shivam/">
-    <img align="left" alt="Shivam Kumar | Instagram" width="24px" src="https://github.com/gilbarbara/logos/blob/master/logos/instagram-icon.svg" />
+    <img align="left" alt="Shivam Kumar | Instagram" width="24px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/instagram-icon.svg" />
   </a>
