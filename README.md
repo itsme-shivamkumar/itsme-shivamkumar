@@ -55,5 +55,5 @@ I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Info
   
   
   <a href="https://www.instagram.com/sherlock_shivam/">
-    <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/gilbarbara/logos/blob/master/logos/instagram-icon.svg" />
+    <img align="left" alt="Shivam Kumar | Instagram" width="24px" src="https://github.com/gilbarbara/logos/blob/master/logos/instagram-icon.svg" />
   </a>
