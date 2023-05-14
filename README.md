@@ -9,7 +9,7 @@
 
 I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Information Technology. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
 
-- 🔭 I develop front-end web-applications using React and Django.
+- 🔭 I develop front-end web-applications using React, JQuery etc...
 - 🌱 I solve problem-solving coding questions on leetcode, hackerrank, codechef and other platforms.
 - 👯 If you want a web application for your business idea or startup, then I can help you.
 - 💬 Open for discussion on my related Tech Stack(motive is exchange of knowledge). 
