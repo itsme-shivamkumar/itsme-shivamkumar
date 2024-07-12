@@ -7,7 +7,7 @@
 ### 👋 ✨ Hi, I'm Shivam Kumar.
 
 
-I'm a prefinal year undergrad at NIT Raipur, Chattisgarh pursuing B.Tech in Information Technology. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
+I'm a recent graduate from NIT Raipur, Chattisgarh pursued B.Tech in Information Technology. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
 
 - 🔭 I develop front-end web-applications using React, JQuery etc...
 - 🌱 I solve problem-solving coding questions on leetcode, hackerrank, codechef and other platforms.
