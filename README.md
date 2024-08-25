@@ -7,14 +7,14 @@
 ### 👋 ✨ Hi, I'm Shivam Kumar.
 
 
-I'm a recent graduate from NIT Raipur, Chattisgarh pursued B.Tech in Information Technology. I'm a **Coder** and **Web Developement** Practioner. I am also planning on writing blogs on various technical topics.
+I'm a recent B.Tech graduate in Information Technology from NIT Raipur with a CGPA of 8.22. I specialize in backend development, with hands-on experience in Java, Spring Boot, and microservices.
 
-- 🔭 I develop front-end web-applications using React, JQuery etc...
-- 🌱 I solve problem-solving coding questions on leetcode, hackerrank, codechef and other platforms.
-- 👯 If you want a web application for your business idea or startup, then I can help you.
-- 💬 Open for discussion on my related Tech Stack(motive is exchange of knowledge). 
-- 📫 How to reach me: shivkumar386112@gmail.com
-- 😄 Pronouns: He/Him.
+- 💻 Experience: I interned at Zeta (Directi Group) and Optum (United Healthcare Group) as a Software Engineer. I enhanced efficiency by 30% at Zeta and optimized data processing at Optum by 60%.
+- 🌟 Projects: I’ve built various applications, including a resume editor, a CPI calculator, and an e-commerce backend, which improved user productivity and system reliability.
+- 🔧 Skills: Proficient in C++, JavaScript, and Java. I work with React, Spring Boot, Docker, Kubernetes, and more. I also have experience with CI/CD tools like Jenkins and ArgoCD.
+- 🌱 Coding Platforms: I solve coding challenges on platforms like Leetcode, Hackerrank, and CodeChef.
+- 📚 Certifications: Certified in Software Engineering, SQL, JavaScript Algorithms & Data Structures, and more.
+- 💬 Let’s Connect: I'm open to discussions and collaborations, especially if you need a robust backend or a full-stack web application.
 
 <br><br>
 
