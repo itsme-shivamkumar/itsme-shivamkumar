@@ -7,26 +7,17 @@
 ### 👋 ✨ Hi, I'm Shivam Kumar.
 
 
-I'm a recent B.Tech graduate in Information Technology from NIT Raipur with a CGPA of 8.22. I specialize in backend development, with hands-on experience in Java, Spring Boot, and microservices.
+I'm a Software Development Engineer I at Zeta (Directi Group) with 1 year of experience in building robust backend systems in the fintech domain. I specialize in Java, Spring Boot, microservices, CI/CD, and cloud-native tooling.
 
-- 💻 Experience: I interned at Zeta (Directi Group) and Optum (United Healthcare Group) as a Software Engineer. I enhanced efficiency by 30% at Zeta and optimized data processing at Optum by 60%.
-- 🌟 Projects: I’ve built various applications, including a resume editor, a CPI calculator, and an e-commerce backend, which improved user productivity and system reliability.
-- 🔧 Skills: Proficient in C++, JavaScript, and Java. I work with React, Spring Boot, Docker, Kubernetes, and more. I also have experience with CI/CD tools like Jenkins and ArgoCD.
-- 🌱 Coding Platforms: I solve coding challenges on platforms like Leetcode, Hackerrank, and CodeChef.
-- 📚 Certifications: Certified in Software Engineering, SQL, JavaScript Algorithms & Data Structures, and more.
-- 💬 Let’s Connect: I'm open to discussions and collaborations, especially if you need a robust backend or a full-stack web application.
-
-<br><br>
-
-## ⚔️ Tech Stack
-
-<br>
-
-   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg"></code>
-    <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!--    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg"></code> -->
+- At Zeta, I've led the development of Jenkins-based self-service automation tools that eliminated up to 99% manual toil for Ops and CS teams, handling over 1,800+ executions. I engineered solutions like:
+Factiva Block/Unblock, reducing turnaround time from hours to seconds.
+Balance Debugger & Limit Mismatch Fixers, fixing transaction/block issues for 18K+ users.
+8-Digit BIN Backfill, enabling regulatory compliance for millions of cardholders.
+- OTP-verified Velocity Limit Enforcement, aligning with RBI policies while preserving backward compatibility.
+- My projects have resulted in zero escalations, enhanced auditability, and fully documented handovers to Ops teams. I also optimized reporting systems in Redshift, cutting execution times by 33%.
+- Previously, at Optum, I automated data ingestion pipelines using Azure Data Factory and built BI dashboards with Power BI, improving data availability and reducing reporting time by 70%.
+- Outside of work, I actively build and maintain side projects (resume editor, e-commerce backend, task manager) and regularly solve algorithmic problems on LeetCode, HackerRank, and CodeChef.
+- I'm actively exploring challenging SDE roles in India and Europe, especially in fintech companies, where I can drive backend performance, automation, and system resilience at scale.
 
 <br><br>
 
